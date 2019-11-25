@@ -6,3 +6,4 @@ Lokaverkefni
 - https://lcb.org/news/playn-go-continues-tv-troll-saga-with-hugo-s-adventure
 - https://en.wikipedia.org/wiki/Hugo_(franchise)
  https://en.wikipedia.org/wiki/Hugo_(game_show)
+ https://en.wikipedia.org/wiki/Hugo_(video_game)
