@@ -8,3 +8,4 @@ Lokaverkefni
 - https://en.wikipedia.org/wiki/Hugo_(game_show)
 - https://en.wikipedia.org/wiki/Hugo_(video_game)
 - https://en.wikipedia.org/wiki/List_of_Hugo_video_games
+-https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
