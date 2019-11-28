@@ -21,6 +21,5 @@ Lokaverkefni
 - Hugo chips reklame (https://www.youtube.com/watch?v=qJE987tGRPc&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=111)
 - Game Over - Hugo - Failure Compilation (https://www.youtube.com/watch?v=ualcxDx6RB0&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=172)
 - Game Over - Hugo 2 - Failure Compilation (https://www.youtube.com/watch?v=DxR3vqDLbis&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=171)
-## Myndir
-- (https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiS9OOjoI3mAhUOUhoKHXSICGYQjRx6BAgBEAQ&url=https%3A%2F%2Fscreentroll.fandom.com%2Fwiki%2FHugo_the_Troll_Wiki&psig=AOvVaw0uLGU-Cx5py75NZw6MqiEn&ust=1575042368652153)
+
 
