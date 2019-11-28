@@ -11,7 +11,7 @@ Lokaverkefni
 7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 # Lýsing um platform
-pallur-leikur er tegund af tölvuleik sem inniheldur tvívíddar grafík þar sem spilarinn stjórnar persónu sem hoppar eða klifrar á milli fastra palla á mismunandi stöðum á skjánum. 3D platformer vísar venjulega til leikja sem eru með leik í þrívídd og marghyrnd 3D grafík.
+pallur-leikur er tegund af tölvuleik sem inniheldur tvívíddar grafík þar sem spilarinn stjórnar persónu sem hoppar eða klifrar á milli fastra palla á mismunandi stöðum á skjánum. 3D platformer vísar venjulega til leikja sem eru með leik í þrívídd og marghyrnd 3D grafík. Í dag er hugtakið 2.5D fyrst og fremst notað til að lýsa leikjum sem sameina bæði nútíma 3D marghyrnd grafík og hefðbundinn 2D leik. Til dæmis platformer eða bardagaleikur sem notar 3D módel, en með fast hliðarsjónarmið.
 # Lýsing um action
 action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir, þar á meðal samhæfingu handa auga og viðbragðstíma. Sú tegund samanstendur af miklu úrvali af tegundum, svo sem baráttuleikjum, beat 'em ups, skyttuleikjum og pallspilum.
 # Lýsing um Hugó leikina
@@ -27,6 +27,25 @@ Síðar útgáfur PC voru meðal annars Hugo 3 til Hugo 6, Hugo: Wild River (199
 Hugo leikir
 Hugo 2 (Playstation)
 PlayStation-leikirnir tveir, sem endurnýttu titlana Hugo [10] og Hugo 2, [11] eru samantektir á tölvuleikjunum. Þeir eru með betri grafík og hljóð (þar með talin söngleikir fyrir hvern leikhluta) og einnig opnuð fjör í öðrum leik. Hugo 2 fyrir PlayStation var einnig fluttur af Laguna og Infogrames til Game Boy árið 1997. [12] Þessi útgáfa er með einfaldaða grafík og spilun og var síðar flutt í Game Boy Color með Bit Managers og Infogrames árið 1999 undir titlinum Hugo 2½
+# Leikstjórn
+Í sögu leikjanna kemur vond norn að nafni Scylla (einnig þekkt sem Sculla og er kölluð á annan hátt í sumum löndum, þar á meðal „Afskylia“ í upprunalegu dönsku útgáfunni og "Silvía" í íslensku) kemur á heimili Hugo tröllsins og rænir eiginkonu sinni Hugolíu og þremur ungum börnum þeirra (Rit, Rat og Rut) vegna þess að hún þarfnast þeirra í töfrandi fegrunarmeðferðar. Hugo verður að ná til bjargar Hugolina og börnunum og sigra nornina til að koma á friði í skóginum.
+
+Spilarinn verður að klára fjölda minigames og ágiskunar-leiki; flestir eru með 2.5D grafík og hefur Hugo stjórnað með hnappapressum þar sem hann notar ýmsar samgöngutæki. Á meðan fylgist Scylla með framvindu Hugó í gegnum kristalkúlu og varpar galdra til að stöðva hann, þar sem hann hefur áður sett alls konar gildrur á hina ýmsu slóða sem leiða að bæli hennar í Skúlahellinum á fjallstindinum. Hugo mun venjulega hefja hverja atburðarás með þremur mannslífum og kalla fram sár þegar einhver tapast. Meðan á leikjunum stendur Hugo (raddað á dönsku eftir Michael Brockdorf, þýsku eftir Michael Habeck, Oliver Grimm og Oliver Baier og íslensku Hjálmar Hjálmarsson) og Scylla (raddir á dönsku af Winnie Engell, á þýsku af Karin Kernke og íslensku Hrönn Jónsdóttir) hafa samskipti við leikmanninn með stafrænu tali og geta líka bankað á (eða klórað) skjáinn að innan, þ.e. brotið fjórða vegginn.
+## Minigames
+Sem dæmi:
+- „Völundarhús“: Hugo verður að finna leið sína í völundarhúsi og forðast dýnamít og námuvagna áður en kassi af TNT eyðileggur völundarhúsið og fara yfir brú áður en hann stendur frammi fyrir þremur hurðum (þar af ein verðlaun). Það hefur fyrst birst í Skærmtrolden Hugo, upprunalega Hugo leiknum sem kom út fyrir Commodore 64, og var notaður í Hugo Gold, Hugo Die Geburtstagsparty, [14] og í endurskoðuðu formi í Hugo Retro Mania (sem er app-leikur).
+- „Fjallamennska“: Hugo hleypur upp fjall og forðast stóra veltandi steina meðan hann reynir að safna pokum af gulli. Það kom fram í Hugo - På Nye Eventyr, Hugo I / II (PC), Hugo Gold, Hugo XL, Hugo Safari, Hugo Classic 1 og Hugo (PlayStation).
+- „Járnbrautarvagn“: Hugo finnur gamalt járnbrautarlag sem liggur að bæli Scyllu. Spilarinn hjálpar tröllinu og handbílnum sínum að ná ákvörðunarstað með því að skipta um lög, forðast komandi gufuvélar sem Scylla sendi, annað hvort í vöruflutningum eða farþegavinnu og safna gullpokum. Það kom fram í Hugo - På Nye Eventyr og Hugo I / II (PC), Hugo Gold, Hugo XL, Hugo Die Geburtstagsparty, Hugo Classic 1 (PC), Hugo (PlayStation) og í endurskoðuðu formi í Hugo Troll Race 1 og 2 (app-leikir). [ 16]
+## Endgames
+Ef leikmönnunum tekst að ljúka ferðinni og ná áfangastað heldur Hugo áfram í eitt af lokamínitunum sem þjóna sem bónusstig:
+
+- „Rope“: Hugo, sem stendur fyrir framan nornina Scylla og heldur fjölskyldu sinni föngnum í búri, verður að giska á að velja eitt af þremur reipum. Tvö af reipunum munu frelsa fjölskylduna sína úr búrinu og þá verður Scylla annað hvort bundin og kastað út um gluggann fyrst um stökkbretti, tvöföldun eða þreföldun stiga í besta útkomu, eða hún umbreytist í fugl og flýja, láta stöðuna vera sömu eða tvöfaldast. Ef Hugo kýs rangt, er það þá hann sem verður bundinn og lagður saman úr bænum á sama hátt. [36] [37] Það kom fram í Hugo - På Nye Eventyr, Hugo I / II (PC), Hugo 3, Hugo 4, Hugo 5, Hugo 6, Hugo Gold, Hugo Platin, Hugo XL, Hugo Die Geburtstagsparty, Hugo Safari, Hugo (PlayStation), og Hugo Classic 1-4, og í endurskoðuðu formi í Hugo Retro Mania (app-leiknum), sem einnig birtist í Hugo spilakassaleiknum á netinu.
+- „Eldingarboltar“ (eða „norn“): Hugo verður að hoppa í gegnum stórt skákborð til að safna lykli og opna hurð og forðast að eldingarboltar sem Scylla kastar frá svölunum hér að ofan. Sumar útgáfur innihalda tímamörk í formi öryggisprengju, í öðrum eru gullpokar sem hægt er að safna mögulega. Það kom fram í Hugo 3, Hugo 4, Hugo 5, Hugo 6, Hugo Gold, Hugo Platin, Hugo Die Geburtstagsparty, Hugo Safari, Hugo 2 (PlayStation) og Hugo Classic 1-4. [38]
+- „Lykill“: Hugo verður að velja réttan takka til að opna fjársjóðskistu Scyllu; ef hann giskar rangt eða tekur of langan tíma að velja, munu málmspjót umkringja hann. Það kom fram í Hugo 3, Hugo 4, Hugo 5, Hugo 6, Hugo Gold, Hugo Platin, Hugo Die Geburtstagsparty, Hugo Safari og Hugo Classic 1-4. [39]
+Sumir leikir eru með lokaumspjöld sem fara ekki fram í bæli Scylla:
+- „Apple Harvest“: Tvö af börnum Hugo kastar epli úr tré; Hugo reynir að ná nóg í körfu til að búa til safa. Það birtist í Hugo Platin. [40]
+- „Töfra hendur“: Skeljaleikur þar sem spilarinn horfir á eitt af börnum Hugo, Rut, setja perlu undir skel og stokka nokkrar skeljar og verður að velja skelina með perlunni undir honum. Það birtist í Hugo Platin og Hugo XL og var falið í Hugo fyrir PlayStation (spilarinn þarf að klára leikinn í spilakassa, safna öllum bónusum, síðan klára Rope endaröðina með því að skjóta Scylla úr bæli hennar [41]).
+
 ## Heimildir
 - https://www.mbl.is/greinasafn/grein/388101/
 - https://timarit.is/view_page_init.jsp?pageId=2966228
