@@ -4,7 +4,7 @@ Lokaverkefni
 Á vefsíðunni þurfa eftirtalin atriði að koma fram:
 1. Hvaða tegund af tölvuleik/búnað er um að ræða
 2. Hvenær var hann búinn til--> fyrsti leikurin kom út 19 oct 1995 en hugo var búin til september 1990.
-3. Hverjir eru höfundar og framleiðendur
+3. Hverjir eru höfundar og framleiðendur--> Sølvason og Krogh Mortensen bjóu til Hugo.
 4. Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
 5. Hvernig hefur leikurinn/búnaðurinn þróast
 6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
