@@ -14,6 +14,11 @@ Lokaverkefni
 pallur-leikur er tegund af tölvuleik sem inniheldur tvívíddar grafík þar sem spilarinn stjórnar persónu sem hoppar eða klifrar á milli fastra palla á mismunandi stöðum á skjánum. 3D platformer vísar venjulega til leikja sem eru með leik í þrívídd og marghyrnd 3D grafík.
 # Lýsing um action
 action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir, þar á meðal samhæfingu handa auga og viðbragðstíma. Sú tegund samanstendur af miklu úrvali af tegundum, svo sem baráttuleikjum, beat 'em ups, skyttuleikjum og pallspilum.
+# Lýsing um Hugó leikina
+
+Það eru nokkrir Hugo-tölvuleikir byggðir á fyrstu þáttum sjónvarpsþáttarins ITE, Hugo og eru hluti af alþjóðlegum Hugo-kosningum. Frá 1992 til 2000 þróaði ITE og gaf út útgáfur fyrir Amiga, Commodore 64 og PC, svo og fyrir PlayStation leikjatölvur, eingöngu fyrir evrópska markaði. Síðan 2011 hefur Krea Media / Hugo Games gefið út röð af endurgerð leikja fyrir Android. Aðlögun spilakassa á netinu kom einnig út árið 2016 og 2018.
+
+Leikirnir líkjast mjög fyrstu útgáfum sjónvarpsþáttarins sem þeir hafa verið lagaðir úr; í næstum þeim öllum leiðbeinir spilarinn titil söguhetjunni (litlu, vinalegu trölli að nafni Hugo) til að bjarga konu sinni og börnum frá vonda norn Scylla. Til að bjarga fjölskyldu sinni verður Hugo að sigla á öruggan hátt í hættulegu umhverfi í ýmsum smámyndum.
 ## Heimildir
 - https://www.mbl.is/greinasafn/grein/388101/
 - https://timarit.is/view_page_init.jsp?pageId=2966228
