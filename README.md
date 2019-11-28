@@ -10,6 +10,8 @@ Lokaverkefni
 6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
 7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
+# Lýsing um action
+action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir, þar á meðal samhæfingu handa auga og viðbragðstíma. Sú tegund samanstendur af miklu úrvali af tegundum, svo sem baráttuleikjum, beat 'em ups, skyttuleikjum og pallspilum.
 ## Heimildir
 - https://www.mbl.is/greinasafn/grein/388101/
 - https://timarit.is/view_page_init.jsp?pageId=2966228
