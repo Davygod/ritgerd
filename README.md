@@ -21,5 +21,6 @@ Lokaverkefni
 - Hugo chips reklame (https://www.youtube.com/watch?v=qJE987tGRPc&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=111)
 - Game Over - Hugo - Failure Compilation (https://www.youtube.com/watch?v=ualcxDx6RB0&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=172)
 - Game Over - Hugo 2 - Failure Compilation (https://www.youtube.com/watch?v=DxR3vqDLbis&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=171)
+- HUGO'S ADVENTURE (PLAY'N GO) ONLINE SLOT (https://www.youtube.com/watch?v=pFR-SkIyCgM)
 
 
