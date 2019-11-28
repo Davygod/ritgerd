@@ -19,6 +19,14 @@ action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir
 Það eru nokkrir Hugo-tölvuleikir byggðir á fyrstu þáttum sjónvarpsþáttarins ITE, Hugo og eru hluti af alþjóðlegum Hugo-kosningum. Frá 1992 til 2000 þróaði ITE og gaf út útgáfur fyrir Amiga, Commodore 64 og PC, svo og fyrir PlayStation leikjatölvur, eingöngu fyrir evrópska markaði. Síðan 2011 hefur Krea Media / Hugo Games gefið út röð af endurgerð leikja fyrir Android. Aðlögun spilakassa á netinu kom einnig út árið 2016 og 2018.
 
 Leikirnir líkjast mjög fyrstu útgáfum sjónvarpsþáttarins sem þeir hafa verið lagaðir úr; í næstum þeim öllum leiðbeinir spilarinn titil söguhetjunni (litlu, vinalegu trölli að nafni Hugo) til að bjarga konu sinni og börnum frá vonda norn Scylla. Til að bjarga fjölskyldu sinni verður Hugo að sigla á öruggan hátt í hættulegu umhverfi í ýmsum smámyndum.
+## Tölvuleikir
+Tveir Amiga leikir, Hugo (upphaflega titillinn Hugo - På Nye Eventyr: Del 1 [1]) og framhald hans, Hugo 2 (upphaflega Hugo - På Nye Eventyr: Del 2 [2]) voru gefin út 1991 [3] og 1992, flutti tonna tölvuna 1992-1993. Þeim var sleppt aftur sem samantekt frá árinu 1994, Hugo (Hugo På Nye Eventyr), [4] og flutt í tölvuna sem Hugo (Hugo: Äventyret Går Vidare) 1995-1996. [5] Báðir leikirnir voru svipaðir og sjónvarpsþátturinn með sama titli þar sem keppandinn myndi reyna að klára spilakassa til að safna stigum og forðast hindranir með því að nota síma, og lokamíníurnar eru eins og þær sem sést í sjónvarpinu. [6]
+
+Síðar útgáfur PC voru meðal annars Hugo 3 til Hugo 6, Hugo: Wild River (1998), [7] og uppfærð samantekt þeirra Hugo Gold (1998), Hugo Platin (1999) og Hugo XL (1999). [8] Ennfremur voru nokkrar útgáfurnar að hluta til felldar inn í Hugo - Die Geburtstagsparty og Hugo Safari frá árinu 2000 (sem báðar voru einnig byggðar á nýrri verkum Hugo) og Hugo Classic safninu (saman fyrstu titlana). [9] Síðarnefndu samanstóð af sjö eða átta útgáfum (fer eftir landi), þar á meðal Hugo Classic 1-4 byggð á upprunalegu seríunni (auk Hugo Classic 5-6 byggð á Hugo: Jungle Island seríunni).
+
+Hugo leikir
+Hugo 2 (Playstation)
+PlayStation-leikirnir tveir, sem endurnýttu titlana Hugo [10] og Hugo 2, [11] eru samantektir á tölvuleikjunum. Þeir eru með betri grafík og hljóð (þar með talin söngleikir fyrir hvern leikhluta) og einnig opnuð fjör í öðrum leik. Hugo 2 fyrir PlayStation var einnig fluttur af Laguna og Infogrames til Game Boy árið 1997. [12] Þessi útgáfa er með einfaldaða grafík og spilun og var síðar flutt í Game Boy Color með Bit Managers og Infogrames árið 1999 undir titlinum Hugo 2½
 ## Heimildir
 - https://www.mbl.is/greinasafn/grein/388101/
 - https://timarit.is/view_page_init.jsp?pageId=2966228
