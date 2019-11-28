@@ -11,7 +11,7 @@ Lokaverkefni
 7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 # Lýsing um platform
-pallur-leikur er tegund af tölvuleik sem inniheldur tvívíddar grafík þar sem spilarinn stjórnar persónu sem hoppar eða klifrar á milli fastra palla á mismunandi stöðum á skjánum.
+pallur-leikur er tegund af tölvuleik sem inniheldur tvívíddar grafík þar sem spilarinn stjórnar persónu sem hoppar eða klifrar á milli fastra palla á mismunandi stöðum á skjánum. 3D platformer vísar venjulega til leikja sem eru með leik í þrívídd og marghyrnd 3D grafík.
 # Lýsing um action
 action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir, þar á meðal samhæfingu handa auga og viðbragðstíma. Sú tegund samanstendur af miklu úrvali af tegundum, svo sem baráttuleikjum, beat 'em ups, skyttuleikjum og pallspilum.
 ## Heimildir
