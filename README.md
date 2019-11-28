@@ -2,7 +2,7 @@
 Lokaverkefni
 # Lýsing
 Á vefsíðunni þurfa eftirtalin atriði að koma fram:
-1. Hvaða tegund af tölvuleik/búnað er um að ræða--> þetta er platfrom leikur
+1. Hvaða tegund af tölvuleik/búnað er um að ræða
 2. Hvenær var hann búinn til--> fyrsti leikurin kom út 19 oct 1995 en hugo var búin til september 1990.
 3. Hverjir eru höfundar og framleiðendur--> Sølvason og Krogh Mortensen bjóu til Hugo.
 4. Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
@@ -18,7 +18,8 @@ Lokaverkefni
 - https://en.wikipedia.org/wiki/Hugo_(game_show)
 - https://en.wikipedia.org/wiki/Hugo_(video_game)
 - https://en.wikipedia.org/wiki/List_of_Hugo_video_games
--https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
+- https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
+- https://en.wikipedia.org/wiki/Interactive_Television_Entertainment
 ## Mynbönd
 - 90's Nostalgia Gaming lookback: Hugo the troll...(https://www.youtube.com/watch?v=NIEZdkl-OPY)
 - Hugo Live Videogame TV Gameshow - St1ka's Retro Corner(https://www.youtube.com/watch?v=r3MSE8Kde9w)
