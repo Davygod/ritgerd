@@ -24,6 +24,7 @@ action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir
 - https://en.wikipedia.org/wiki/List_of_Hugo_video_games
 - https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
 - https://en.wikipedia.org/wiki/Interactive_Television_Entertainment
+- https://en.wikipedia.org/wiki/Interactive_television
 ## Mynbönd
 - 90's Nostalgia Gaming lookback: Hugo the troll...(https://www.youtube.com/watch?v=NIEZdkl-OPY)
 - Hugo Live Videogame TV Gameshow - St1ka's Retro Corner(https://www.youtube.com/watch?v=r3MSE8Kde9w)
