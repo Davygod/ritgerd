@@ -10,6 +10,8 @@ Lokaverkefni
 6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
 7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
+# Lýsing um platform
+platform-game is a type of video game featuring two-dimensional graphics where the player controls a character jumping or climbing between solid platforms at different positions on the screen.
 # Lýsing um action
 action game er tegund tölvuleikja sem leggur áherslu á líkamlegar áskoranir, þar á meðal samhæfingu handa auga og viðbragðstíma. Sú tegund samanstendur af miklu úrvali af tegundum, svo sem baráttuleikjum, beat 'em ups, skyttuleikjum og pallspilum.
 ## Heimildir
