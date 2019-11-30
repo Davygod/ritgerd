@@ -2,12 +2,17 @@
 Lokaverkefni
 # Lýsing
 Á vefsíðunni þurfa eftirtalin atriði að koma fram:
-1. Hvaða tegund af tölvuleik/búnað er um að ræða
+1. Hvaða tegund af tölvuleik/búnað er um að ræða--> Amiga, Macintosh, Commodore 64, MS-DOS og Windows
 2. Hvenær var hann búinn til--> Fyrsti leikurinn, sem var byggður af leikjunum af sjónvarpsþáttunum, kom út 19 oct 1995 en Hugó-sjónvarpsþátturinn var búinn til september 1990.
-3. Hverjir eru höfundar og framleiðendur--> Sølvason og Krogh Mortensen bjuggu Hugó til.
+3. Hverjir eru höfundar og framleiðendur--> Sølvason og Krogh Mortensen bjuggu Hugó til. Helsti framleiðandinn var ITE fyrir upphafi til lok tíma Agent Hugo-seríunnar (endurmerkt Hugo-sería). Þá tók Krea Medie games við sem framleiðandi 2009 og gaf út fyrst endurgerð af Hugo sem hafði ekkert af persónum frumseríunni né af Agent Hugo áður en þeir hófu vinnslu á appleikjunum 2010
 4. Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
-5. Hvernig hefur leikurinn/búnaðurinn þróast
-6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
+5. Hvernig hefur leikurinn/búnaðurinn þróast--> Í tíma ITE sáu Krogh Mortensen og bróðir hans, Lars, á vinnslu frumseríunnar og leikstýrðu meira en 30 Hugo leikjum sem seldu meira en 10 milljónir eintaka, [12] þar af yfir þrjár milljónir í Þýskalandi einum. Leikirnir voru gefnir út fyrir marga vettvangi, þar á meðal einkatölvur, leikjatölvur og farsíma, [45] taldi ekki fjölmarga litla vafra leiki (fyrst þeirra var gefinn út árið 1996 [21]). Flestar flísarnar eru pallspilin eða minigame samantekt, en það eru einnig nokkrir menntunarleikir. [46] Dreifingaraðilar og félagar voru meðal annars Egmont Interactive, Electronic Arts [8] og Namco. [47]
+
+Fyrsti titillinn í hinni löngu seríu af Hugo leikjum var stofnaður árið 1991 fyrir Commodore 64, [48] og síðan leikirnir fyrir Amiga, PC (DOS og Microsoft Windows), Game Boy og PlayStation. Fyrsti þrívíddarleikurinn (Hugo: Quest for the Sunstones) var gefinn út árið 2000. [49] Í fyrstu leikjunum reynir Hugo að frelsa fjölskyldu sína frá illsku Scylla í sömu atburðarás og sjónvarpsþátturinn. Í síðari leikjum byrjar hann yfirleitt hefndarplottar hennar og áætlanir til að öðlast æðstu völd. Nokkrir leikanna eru þó alls ekki með henni. Í sumum þeirra eru fjölskyldumeðlimir Hugo, vinir eða stundum jafnvel óvinir (í fjölspilunarleikjunum) til að spila sem persónur. Árið 2005 var Hugo endurfluttur sem umboðsmaður Hugo-seríunnar fyrir nýja seríu af fjórum þrívíddarleikjum fyrir Agent Hugo-seríuna. [5]
+Árið 2009 gaf nýja forlagið, Krea Medie, út fullkominn endurræsingarleik Hugo - Magic in the Trollwoods [51] (Hugo - Magi i Troldeskoven [52]) án tengsla við hvorki neina af Hugo sýndum persónum né Agent Hugo seríunni , með Hugo sem tröll töframaður í þjálfun. Það varð eini leikurinn sem er skráður á opinberu vefsíðu leikanna, þar sem öllu fyrra efni var að öllu leyti fjarlægt.
+
+Árið 2010 sendi Krea hins vegar frá sér leikjagerðarforrit sem innihélt frumútgáfu af Hugo og öðrum klassískum persónum. [53] Árið 2011 sagði nýr eigandi fyrirtækisins [54] Henrik Kølle að hann vonaði að útgáfa nýs tölvuleikja væri „eitt af mörgum spennandi skrefum í átt að nýju Hugo uppganginum sem alþjóðlegt vörumerki.“ [55] [56] Krea hefur að því er virðist yfirgaf hugmynd um endurræsinguna (sem var fjarlægð af opinberu vefsíðunni) og tókst [57] [58] aftur í upprunalegu útgáfuna af kosningaréttinum með Hugo Retro Mania, með upprunalegu útgáfunni af Hugo og klassískri atburðarás að bjarga fjölskyldu hans tekinn af Scylla norninni (endurnefnt „Sculla“ í ensku útgáfunni). [59] Samkvæmt Henrik Kølle frá Krea, „í fyrsta skipti síðan hann eignaðist Hugo hafa [Krea Medie] þróað verkefni sem er sniðið að Hugo“. [55] Verkefnið við að þróa nýja leiki fékk sérstaka stofnunina Hugo Games A / S. [2] 2015 leikur Ronaldo & Hugo: Gestur Superstar Skaters lék efstu knattspyrnumaðurinn Cristiano Ronaldo. [60]
+6. Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.--> Frá og með 2012 samanstanda verslunarhlutar kosningarinnar að mestu af farsímaleikjum sem danska fyrirtækið Hugo Games A / S hefur gefið út, endurnefnt 5th Planet Games A / S (Nasdaq Stockholm: FIVEPGo) þann 30. nóvember 2018. Finnsk kvikmynd er nú í þróun með titlinum 'Hugo: The World's Worst Comeback' sem var tilkynnt opinberlega þegar teaser trailer hennar var birt 20. febrúar 2013 [71] [72] ] Það átti að framleiða Petteri Pasanen og Trine Heidegaard í leikstjórn Philip Einstein Lipski [73] og Mikko Pitkänen, [74] og samin af Tim John og Timo Turunen. [75] Finnski kvikmyndasjóðurinn SES gaf 50.000 evrur fyrir verkefnið. [76] Það var einnig veittur þróunarstuðningur frá Skapandi Evrópu. [77] Kvikmyndin átti að hefja framleiðslu árið 2014 fyrir áætlaða útgáfu árið 2016. Eftir að hafa misst af útgáfudögum sínum og án fréttar um það, er núverandi staða þess óljós.
 7. Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 8. Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 # Lýsing um platform
@@ -59,9 +64,11 @@ Engu að síður var serían gríðarlegur viðskiptalegur árangur. Fyrsti töl
 - https://en.wikipedia.org/wiki/Hugo_(game_show)
 - https://en.wikipedia.org/wiki/Hugo_(video_game)
 - https://en.wikipedia.org/wiki/List_of_Hugo_video_games
-- https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
 - https://en.wikipedia.org/wiki/Interactive_Television_Entertainment
 - https://en.wikipedia.org/wiki/Interactive_television
+- https://screentroll.fandom.com/wiki/File:Game_Over_-_Hugo_-_Failure_Compilation
+- https://screentroll.fandom.com/wiki/The_World%27s_Worst_Comeback
+
 ## Mynbönd
 - 90's Nostalgia Gaming lookback: Hugo the troll...(https://www.youtube.com/watch?v=NIEZdkl-OPY)
 - Hugo Live Videogame TV Gameshow - St1ka's Retro Corner(https://www.youtube.com/watch?v=r3MSE8Kde9w)
