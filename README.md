@@ -78,7 +78,7 @@ Engu að síður var serían gríðarlegur viðskiptalegur árangur. Fyrsti töl
 - [HUGO THE WORLD'S WORST COMEBACK Official Teaser Trailer (2018)](https://www.youtube.com/watch?v=KufOHqkbsdE)
 - [Hugo i przyjaciele | Kto pomoże Hugo](https://www.youtube.com/watch?v=1dpGPFzs2sk&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=96&t=0s)
 - [Upphafslag um pólskt Hugo-sjónvarpsþátt (Hugo Family)](https://www.youtube.com/watch?v=v3Gu1MiFBZg&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=118)
-- [Hugo Family (powtórka emisji z 3 stycznia 2004 r.])(https://www.youtube.com/watch?v=62ICfajhzQ4)
+- [Hugo Family (powtórka emisji z 3 stycznia 2004 r.](https://www.youtube.com/watch?v=62ICfajhzQ4)
 - [Hugo Magia](https://www.youtube.com/watch?v=3mCnyHuTE80&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=107&t=3s)
 - [Hugo Liana Climbing TV version](https://www.youtube.com/watch?v=Wdg1hZpmHP0&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=107)
 - [Hugo Jockey TV version](https://www.youtube.com/watch?v=eHMAsHbs-3Q&list=LLfhCUO0ncs0nKcbH2Yv0UhQ&index=108)
