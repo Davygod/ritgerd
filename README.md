@@ -3,7 +3,7 @@ Lokaverkefni
 # Lýsing
 Á vefsíðunni þurfa eftirtalin atriði að koma fram:
 1. Hvaða tegund af tölvuleik/búnað er um að ræða--> Amiga, Macintosh, Commodore 64, MS-DOS og Windows
-2. Hvenær var hann búinn til--> Fyrsti leikurinn, sem var byggður af leikjunum af sjónvarpsþáttunum, kom út 19 oct 1995 en Hugó-sjónvarpsþátturinn var búinn til september 1990.
+2. Hvenær var hann búinn til--> Fyrsti leikurinn (Skærmtrolden Hugo), sem var byggður af leikjunum af sjónvarpsþáttunum, kom út 1991 fyrir Commodore 64 áður en hann var gefinn síðar út fyrir Amiga, PC og jafnvel Playstation en Hugó-sjónvarpsþátturinn var búinn til september 1990. 
 3. Hverjir eru höfundar og framleiðendur--> Sølvason og Krogh Mortensen bjuggu Hugó til. Helsti framleiðandinn var ITE fyrir upphafi til lok tíma Agent Hugo-seríunnar (endurmerkt Hugo-sería). Þá tók Krea Medie games við sem framleiðandi 2009 og gaf út fyrst endurgerð af Hugo sem hafði ekkert af persónum frumseríunni né af Agent Hugo áður en þeir hófu vinnslu á appleikjunum 2010
 4. Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
 5. Hvernig hefur leikurinn/búnaðurinn þróast--> Í tíma ITE sáu Krogh Mortensen og bróðir hans, Lars, á vinnslu frumseríunnar og leikstýrðu meira en 30 Hugo leikjum sem seldu meira en 10 milljónir eintaka, [12] þar af yfir þrjár milljónir í Þýskalandi einum. Leikirnir voru gefnir út fyrir marga vettvangi, þar á meðal einkatölvur, leikjatölvur og farsíma, [45] taldi ekki fjölmarga litla vafra leiki (fyrst þeirra var gefinn út árið 1996 [21]). Flestar flísarnar eru pallspilin eða minigame samantekt, en það eru einnig nokkrir menntunarleikir. [46] Dreifingaraðilar og félagar voru meðal annars Egmont Interactive, Electronic Arts [8] og Namco. [47]
