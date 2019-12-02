@@ -89,5 +89,6 @@ Engu að síður var serían gríðarlegur viðskiptalegur árangur. Fyrsti töl
 - Hugo 2 slot by Play'n Go (https://www.youtube.com/watch?v=lHRhP3YHokw)
 - HUGO GOAL (PLAY'N GO) - BIG WIN (https://www.youtube.com/watch?v=iE7poE7wen4)
 - HUGO'S ADVENTURE (PLAY'N GO) ONLINE SLOT (https://www.youtube.com/watch?v=pFR-SkIyCgM)
+- Hugo Magic in the Troll Woods Gameplay Part 1 (https://www.youtube.com/watch?v=G9YYZTgxgOM)
 
 
