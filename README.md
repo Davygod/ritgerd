@@ -1,5 +1,5 @@
-# ritgerd
-Lokaverkefni
+# Hugo the TV troll
+Davíð Þór Torfason og Hjörtur Elí
 # Lýsing
 Á vefsíðunni þurfa eftirtalin atriði að koma fram:
 1. Hvaða tegund af tölvuleik/búnað er um að ræða--> Amiga, Macintosh, Commodore 64, MS-DOS Windows og jafnvel Playstation.
